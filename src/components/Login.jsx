@@ -68,8 +68,8 @@ if(user[0]?.name) navigate("/");
 
 
 const guestLogin=()=>{
-  emailInput.value="guestuser@gmail.com"
-  passwordInput.value="123456789"
+  emailInput.value="r303799@gmail.com"
+  passwordInput.value="12345678"
   loginUser();
 }
 
